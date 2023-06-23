@@ -2,7 +2,6 @@
 
 - 🔭 Hoje trabalho com análise de dados
 - 🌱 Estudando Python
-- 📫 Contate-me no email: breno245@outlook.com
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Breno-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -22,14 +21,17 @@
   ##
  
 <div> 
-  <a href="https://www.instagram.com/aka_breno/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href ="mailto:breno245@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="linkedin.com/in/breno-ramos-5362a0204" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
-
-<div> 
   <a href ="https://github.com/Breno-Ramos-dos-Santos">
   <img src="https://github-readme-stats.vercel.app/api?username=Breno-Ramos-dos-Santos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" target="_blank"></a>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Breno-Ramos-dos-Santos&layout=compact&langs_count=168&theme=dracula" target="_blank"></a>
 </div>
 
+##
+
+<div> 
+  <a href="https://www.instagram.com/aka_breno/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href ="mailto:breno245@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="linkedin.com/in/breno-ramos-5362a0204" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+  ![Snake animation](https://github.com/Breno-Ramos-dos-Santos/blob/output/github-contribution-grid-snake.svg)
+</div>
