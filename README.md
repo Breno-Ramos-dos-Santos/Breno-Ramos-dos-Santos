@@ -30,6 +30,9 @@
 <div> 
   <a href ="https://github.com/Breno-Ramos-dos-Santos">
   <img src="https://github-readme-stats.vercel.app/api?username=Breno-Ramos-dos-Santos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" target="_blank"></a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" target="_blank"></a>
 </div>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Breno-Ramos-dos-Santos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
