@@ -27,4 +27,9 @@
   <a href="linkedin.com/in/breno-ramos-5362a0204" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
+<div> 
+  <a href ="https://github.com/Breno-Ramos-dos-Santos">
+  <img src="https://github-readme-stats.vercel.app/api?username=Breno-Ramos-dos-Santos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" target="_blank"></a>
+</div>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Breno-Ramos-dos-Santos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
